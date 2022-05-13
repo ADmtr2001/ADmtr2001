@@ -1,5 +1,17 @@
 ## Projects
 
+Almost all the projects that are here were made solely for the study of technology. They do not have the correct structure and clean code. If you want to see the code that displays my skills, then you should check my latest project:
+
+[![IWIX Deploy](https://img.shields.io/badge/-IWIX_Deploy-black?style=for-the-badge&logo=asciinema&logoColor=orange)](https://iwix-store.netlify.app)
+
+[![IWIX Repository](https://img.shields.io/badge/-IWIX_Repository-black?style=for-the-badge&logo=asciinema&logoColor=green)](https://github.com/ADmtr2001/Resume-MERN-1-IWIX)
+
+And there's an older one:
+
+[![Wilm Deploy](https://img.shields.io/badge/-Wilm_Deploy-black?style=for-the-badge&logo=asciinema&logoColor=orange)](https://wilm.netlify.app)
+
+[![Wilm Repository](https://img.shields.io/badge/-Wilm_Repository-black?style=for-the-badge&logo=asciinema&logoColor=green)](https://github.com/ADmtr2001/Resume-React-1-Wilm)
+
 ## Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)

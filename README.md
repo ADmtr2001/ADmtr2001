@@ -2,8 +2,6 @@
 
 ## Projects
 
-Almost all the projects that are here were made solely for the study of technology. They do not have the correct structure and clean code.
-
 If you want to see the code that displays my skills, then you should check my latest project:
 
 [![IWIX Deploy](https://img.shields.io/badge/-IWIX_Deploy-black?style=for-the-badge&logo=asciinema&logoColor=orange)](https://iwix-store.netlify.app)
@@ -30,6 +28,7 @@ And there's an older one:
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+![Npm](https://img.shields.io/badge/-Npm-black?style=for-the-badge&logo=npm)
 
 ## Contacts
 

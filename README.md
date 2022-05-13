@@ -1,3 +1,5 @@
+## Projects
+
 ## Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
@@ -12,3 +14,8 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+
+## Contacts
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Ars_dmt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arsen-dmitrenko-91272823a/)

@@ -2,7 +2,7 @@
 
 ## Projects
 
-If you want to see the code that displays my skills, then you should check my latest project:
+If you want to see code that displays my current skills, you should check out my latest project:
 
 [![IWIX Deploy](https://img.shields.io/badge/-IWIX_Deploy-black?style=for-the-badge&logo=asciinema&logoColor=orange)](https://iwix-store.netlify.app)
 

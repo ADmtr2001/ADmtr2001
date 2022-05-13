@@ -1,4 +1,4 @@
-![Header](https://github.com/ADmtr2001/ADmtr2001/blob/main/github-header-image.png?raw=true)
+![Header](https://github.com/ADmtr2001/ADmtr2001/blob/main/header.png?raw=true)
 
 ## Projects
 
